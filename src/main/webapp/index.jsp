@@ -7,7 +7,7 @@
 <h1>Congratulations Chintu Pandu !!</h1>
 <img src="pandu chintu .JPG" alt="Mega start chiru" width="500" height="600">
 
-<h2>You have successfully launched your Instance!megastar.com!</h2>
+<h2>You have successfully launched your Instance!chintu pandu!</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>

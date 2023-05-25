@@ -4,7 +4,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations Chintu Pandu !!</h1>
+<h1>Congratulations you have build Pipeline Succesfully !!</h1>
 <img src="pandu chintu .JPG" alt="Mega start chiru" width="500" height="500">
 
 <h2>You have successfully launched your Instance!chintu pandu!</h2>

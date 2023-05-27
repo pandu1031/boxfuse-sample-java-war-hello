@@ -4,8 +4,8 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations for newly wed couples !!</h1>
-<img src="megastar.jpg" alt="Mega start chiru" width="500" height="500">
+<h1>Congratulations for Newly Wed Couples !!</h1>
+<img src="panduchintu.jpg" alt="chintu pandu" width="500" height="500">
 
 <h2>You have successfully launched your Instance!chintu pandu!</h2>
 

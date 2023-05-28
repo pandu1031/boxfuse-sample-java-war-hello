@@ -5,7 +5,7 @@
 </head>
 <body style="text-align: center">
 <h1>Congratulations for Newly Wed Couples !!</h1>
-<img src="a78e1777-32a0-4fa4-ac76-ffcf728c57f7.jpg" alt="chintu pandu" width="500" height="500">
+<img src="Rajani.PNG" alt="Rajini" width="500" height="500">
 
 <h2>You have successfully launched your Instance!chintu pandu!</h2>
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
